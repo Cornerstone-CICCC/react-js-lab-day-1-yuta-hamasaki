@@ -10,7 +10,7 @@
 3. Create three components inside the `src/components` directory:
 
     - `UserForm.tsx`
-    - `UserList.tsx`
+    - `to`
     - `UserProfile.tsx`
 
 4. Here are the details for each component:
